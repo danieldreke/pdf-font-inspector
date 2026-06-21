@@ -1,6 +1,6 @@
 # PDF Font Inspector
 
-![Claude](https://img.shields.io/badge/Built_With-Claude-D97757?style=flat&logo=claude&logoColor=D97757)
+![Claude](https://img.shields.io/badge/Built_With-Claude-D97757?style=flat&logo=claude&logoColor=D97757) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Inspect embedded fonts in PDF files — browse font subsets, view glyphs, check character coverage.
 
